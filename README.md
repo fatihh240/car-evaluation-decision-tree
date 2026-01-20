@@ -54,7 +54,7 @@ To run this project on your local machine:
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/](https://github.com/)[YOUR_USERNAME]/car-evaluation-project.git
+git clone [https://github.com/](https://github.com/)[fatihh240]/car-evaluation-project.git
 
 # 2. Navigate to the project folder
 cd car-evaluation-project
